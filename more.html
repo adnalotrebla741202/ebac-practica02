@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dragon Ball - Más Información</title>
+
+    <!-- Icono de la ventana -->
+    <link rel="icon" href="icon/esfera.ico">
+
+</head>
+<body>
+    <div>
+        <h1>Galería</h1>
+        <center><img src="img/AbueloGohan.png" alt="Abuelo Gohan">
+        <img src="img/gokusj.png" alt="Goku Super Saiyan">
+        <img src="img/gokusj3.png" alt="Golu Super Saiyan Tres">
+        <img src="img/krilin.png" alt="Krilin">
+        <img src="img/MajinBuu.png" alt="Majin Buu"></center>
+    </div>
+    <br><br><br><br><br>
+    <div>
+        <center><table border="1" cellpadding="15">
+            <caption><strong>Sagas Dragon Ball Z</strong></caption>
+            <thead bgcolor="lightyellow">
+                <tr>
+                    <th>Saga</th>
+                    <th>Episodios</th>
+                    <th>Estreno</th>
+                </tr>
+            </thead>
+            <tbody align="center">
+                <tr>
+                    <td>Saga Saiyajin</td>
+                    <td>35</td>
+                    <td>1989-1990</td>
+                </tr>
+                <tr>
+                    <td>Saga de Freezer</td>
+                    <td>72</td>
+                    <td>1990-1991</td>
+                </tr>
+                <tr>
+                    <td>Saga de Garlic Jr.</td>
+                    <td>10</td>
+                    <td>1991</td>
+                </tr>
+                <tr>
+                    <td>Saga de los Androides</td>
+                    <td>22</td>
+                    <td>1991-1992</td>
+                </tr>
+                <tr>
+                    <td>Saga de los Androides</td>
+                    <td>55</td>
+                    <td>1992-1993</td>
+                </tr>
+                <tr>
+                    <td>Saga del Torneo del otro Mundo</td>
+                    <td>5</td>
+                    <td>1993</td>
+                </tr>
+                <tr>
+                    <td>Saga del 25.° Torneo de las Artes Marciales</td>
+                    <td>20</td>
+                    <td>1993-1994</td>
+                </tr>
+                <tr>
+                    <td>Saga de Majin Boo</td>
+                    <td>72</td>
+                    <td>1994-1996</td>
+                </tr>
+            </tbody>
+        </table></center>
+    </div>
+    <br><br><br><br><br>
+    <div>
+        <!-- Formulario de Contacto -->
+        <form>
+            <center><h2>¿QUÉ PERSONAJE TE GUSTA?</h2></center>
+            <fieldset>
+                <legend>INFORMACIÓN DEL USUARIO</legend>
+                <div>
+                    <center><label for="contact_name">Ingresa tu nombre</label>
+                    <input 
+                        id="contact_name"
+                        name="name"
+                        type="text"
+                        maxlength="50"
+                        placeholder="Nombre Completo"
+                    required></center>
+                </div>
+                <div>
+                    <center><label for="contact_email">Ingresa tu correo</label>
+                    <input 
+                        id="contact_email"
+                        name="email"
+                        type="email"
+                        minlength="8"
+                        placeholder="alandap@prodigy.net.mx"
+                    required></center>
+                </div>
+                <center><label for="age">¿Qué edad tienes?</label>
+                    <input 
+                        id="age"
+                        name="age"
+                        type="number"
+                        minlength="3"
+                        placeholder="49"
+                    required></center>
+                <center><label for="birthdate">Ingresa tu fecha de nacimiento</label>
+                        <input 
+                            id="birthdate"
+                            name="birthdate"
+                            type="date"
+                        required></center>
+            </fieldset>
+            <fieldset>
+                <legend>COMENTARIOS DE TU PERSONAJE FAVORITO</legend>
+                <div>
+                    <center><label for="contact_subject">Selecciona tu personaje favorito</label>
+                    <select id="contact_subject" name="subject">
+                        <option value="">-- Selecciona tu personaje favorito --</option>
+                        <option value="goku">Goku</option>
+                        <option value="vegeta">Vegeta</option>
+                        <option value="bulma">Bulma</option>
+                        <option value="krilin">Krilin</option>
+                        <option value="roshi">Maestro Roshi</option>
+                        <option value="yamcha">Yamcha</option>
+                        <option value="piccolo">Piccolo</option>
+                        <option value="ten">Ten Shin Han</option>
+                    </select></center>
+                </div>
+                <div>
+                    <center><label for="contact_consult">Escribe tus comentarios</label>
+                    <textarea 
+                        id="contact_consult" 
+                        name="consult"
+                        minlength="30"
+                        maxlength="1000"
+                        placeholder="Buenas tardes, mis comentarios son los siguientes:"
+                    required></textarea></center>
+                </div>
+            </fieldset>
+            <center><input class="btn" type="submit"></center>
+        </form>
+    </div>
+    <br><br><br><br><br>
+    <center><a href="index.html">Regresar</a></center>
+</body>
+</html>
