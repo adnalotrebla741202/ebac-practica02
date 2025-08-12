@@ -21,14 +21,26 @@ En este proyecto cree mi primera estructura de un sitio web con las principales 
   <li>Al finalizar la página dos nos encontraremos con un vínculo de regreso a la página uno.</li>
 </ul>
 <h2>Ejemplos de uso</h2>
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9eed8b9d-7929-4c78-8c85-f10dd8617fec" />
-<br>
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fc803dc0-7e01-4974-84be-dda900094281" />
-<br>
+<img width="1366" height="647" alt="image" src="https://github.com/user-attachments/assets/c8440b30-37cc-41ba-8d2a-cca6446e8482" />
+
+---
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a900d8c3-9a51-4b61-8a69-b4eda2584d31" />
+
+---
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3ce32ae9-5d18-43fb-ace6-c528b07e3727" />
-<br>
+
+---
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4f43ca6-13db-4113-a420-24c4e15d95f6" />
-<br>
+
+---
+
+<img width="1901" height="264" alt="image" src="https://github.com/user-attachments/assets/c46c2146-b733-4d74-a45d-44a29999b76b" />
+
+---
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ae91c93-142b-4cd4-8509-44ea9030d0c1" />
 
 
