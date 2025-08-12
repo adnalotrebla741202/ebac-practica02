@@ -17,4 +17,22 @@ En este proyecto cree mi primera estructura de un sitio web con las principales 
   <li>Este proyecto es una pequeña reseña de la obra de <b>Akira Toriyama - Dragon Ball.</b></li>
   <li>En la paágina uno se usan las etiquetas <b>&lt;div&gt;, &lt;h1&gt;, &lt;h2&gt;, ..., &lt;h6&gt;, &lt;p&gt;, &lt;span&gt;, &lt;ul&gt;, &lt;li&gt;, &lt;ol&gt;, &lt;a&gt;, br&gt;</b>.
   <li>Al finalizar la página el diseño cuenta con vínculos a las diferentes Sagas de dicha obra en su idioma original y cuenta con un enlace a una segunda página de más información.</li>
+  <li>La página dos muestra el uso de las etiquetas <b>&lt;h1&gt;, &lt;center&gt;, &lt;img&gt;, &lt;div&gt;, &lt;br&gt;, &lt;table&gt;, &lt;caption&gt;, &lt;strong&gt;, &lt;thead&gt;, &lt;tr&gt;, &lt;th&gt;, &lt;tbody&gt;, &lt;td&gt;, &lt;form&gt;, &lt;h2&gt;, &lt;fieldset&gt;, &lt;legend&gt;, &lt;label&gt;, &lt;input&gt;, &lt;select&gt;, &lt;option&gt;, &lt;textarea&gt;, &lt;a&gt;</b>.</li>
+  <li>Al finalizar la página dos nos encontraremos con un vínculo de regreso a la página uno.</li>
 </ul>
+<h2>Ejemplos de uso</h2>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9eed8b9d-7929-4c78-8c85-f10dd8617fec" />
+<br>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fc803dc0-7e01-4974-84be-dda900094281" />
+<br>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3ce32ae9-5d18-43fb-ace6-c528b07e3727" />
+<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4f43ca6-13db-4113-a420-24c4e15d95f6" />
+<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ae91c93-142b-4cd4-8509-44ea9030d0c1" />
+
+
+
+
+
+
