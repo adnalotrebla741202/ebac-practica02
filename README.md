@@ -10,3 +10,11 @@ En este proyecto cree mi primera estructura de un sitio web con las principales 
   <li>Un formulario simulando una situación real de caso de uso con mínimo 2 <b>&lt;fieldset&gt;</b>, mínimo 3 tipos de <b>&lt;input&gt;</b> diferentes, un <b>&lt;select&gt;</b>, un botón para enviar la información insertada en el formulario e incluye títulos para cada control.</li>
 </ul>
 <h2>Instrucciones de instalación y uso</h2>
+<ul>
+  <li>Para usar este código hay que ir a la pestaña Code | Download ZIP.</li>
+  <li>Descomprimir el archivo zipeado, entrar a la carpeta creada y buscar el archivo <b>index.html</b>.</li>
+  <li>Una vez localizado el archivo <b>index.html</b> le damos doble click a dicho archivo y se nos abrirá el proyecto HTML en nuestro navegador de Internet predeterminado.</li>
+  <li>Este proyecto es una pequeña reseña de la obra de <b>Akira Toriyama - Dragon Ball.</b></li>
+  <li>En la paágina uno se usan las etiquetas <b>&lt;div&gt;, &lt;h1&gt;, &lt;h2&gt;, ..., &lt;h6&gt;, &lt;p&gt;, &lt;span&gt;, &lt;ul&gt;, &lt;li&gt;, &lt;ol&gt;, &lt;a&gt;, br&gt;</b>.
+  <li>Al finalizar la página el diseño cuenta con vínculos a las diferentes Sagas de dicha obra en su idioma original y cuenta con un enlace a una segunda página de más información.</li>
+</ul>
