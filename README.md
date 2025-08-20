@@ -43,8 +43,6 @@ En este proyecto cree mi primera estructura de un sitio web con las principales 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ae91c93-142b-4cd4-8509-44ea9030d0c1" />
 
+---
 
-
-
-
-
+## <p align="center"><a href="https://github.com/adnalotrebla741202">REGRESAR</a></p>
